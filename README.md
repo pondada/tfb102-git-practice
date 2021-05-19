@@ -17,6 +17,6 @@ select * from emp;
 ```
 
 Name|Age|Height
-**|**|****
+----|----|----
 Allen|22|123
 John|45|456 
